@@ -42,4 +42,3 @@ bot.polling(none_stop=True)
 all = covid19.getLatest()
 Rus = covid19.getLocationByCountryCode("RU")
 
-print(Rus)
